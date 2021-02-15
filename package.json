@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-backend-project",
+  "version": "1.0.0",
+  "description": "backend e-commerce project",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjfreeman/E-Commerce-Backend-Project.git"
+  },
+  "author": "adam freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamjfreeman/E-Commerce-Backend-Project/issues"
+  },
+  "homepage": "https://github.com/adamjfreeman/E-Commerce-Backend-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "routes": "^2.1.0",
+    "sequelize": "^6.5.0"
+  }
+}
